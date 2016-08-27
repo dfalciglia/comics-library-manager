@@ -8,9 +8,9 @@
 
 
 	<scm>
-		<url>https://dfalciglia@github.com/dfalciglia/comics-library-manager</url>
-		<connection>scm:git:git://dfalciglia@github.com/dfalciglia/comics-library-manager.git</connection>
-		<developerConnection>scm:git:git://dfalciglia@github.com:dfalciglia/comics-library-manager.git</developerConnection>
+		<url>https://github.com/dfalciglia/comics-library-manager</url>
+		<connection>scm:git:git://github.com/dfalciglia/comics-library-manager.git</connection>
+		<developerConnection>scm:git:git@github.com:dfalciglia/comics-library-manager.git</developerConnection>
 	</scm>
 
 	<modules>
