@@ -5,6 +5,14 @@
 	<artifactId>comics-root</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
+
+
+	<scm>
+		<url>https://github.com/dfalciglia/comics-library-manager</url>
+		<connection>scm:git:git://github.com/dfalciglia/comics-library-manager.git</connection>
+		<developerConnection>scm:git:git@github.com:dfalciglia/comics-library-manager.git</developerConnection>
+	</scm>
+
 	<modules>
 		<module>comics-model</module>
 		<module>comics-services</module>
